@@ -23,6 +23,6 @@
   "devDependencies": {
     "lodash.isarray": "^4.0.0",
     "nugget": "^2.0.0",
-    "tape": "^4.2.2"
+    "tape": "4.6.3"
   }
 }
